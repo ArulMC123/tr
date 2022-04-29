@@ -27,9 +27,9 @@ const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, 
 const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
-limitawal = '100'
-botname = 'ZETS - MD'
-wm = '© zets-md'
+limitawal = '100000'
+botname = 'SkyBotz-MD ༼༽ノ'
+wm = '© SkyBotz-MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
